@@ -21,13 +21,13 @@ module GitHubPages
       "github-pages-health-check" => "1.18.2",
 
       # Plugins
-      "jekyll-redirect-from" => "0.16.0",
+      "jekyll-redirect-from" => "0.17.0",
       "jekyll-sitemap" => "1.4.0",
-      "jekyll-feed" => "0.17.0",
+      "jekyll-feed" => "0.18.0",
       "jekyll-gist" => "1.5.0",
       "jekyll-paginate" => "1.1.0",
       "jekyll-coffeescript" => "1.2.2",
-      "jekyll-seo-tag" => "2.8.0",
+      "jekyll-seo-tag" => "2.9.1",
       "jekyll-github-metadata" => "2.16.1",
       "jekyll-avatar" => "0.8.0",
       "jekyll-remote-theme" => "0.4.3",
