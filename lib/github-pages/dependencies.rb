@@ -30,7 +30,7 @@ module GitHubPages
       "jekyll-seo-tag" => "2.9.1",
       "jekyll-github-metadata" => "2.16.1",
       "jekyll-avatar" => "0.8.0",
-      "jekyll-remote-theme" => "0.4.3",
+      "jekyll-remote-theme" => "0.6.2",
       "jekyll-include-cache" => "0.2.1",
 
       # Plugins to match GitHub.com Markdown
